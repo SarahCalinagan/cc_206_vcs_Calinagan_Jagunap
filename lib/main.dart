@@ -1,3 +1,5 @@
+//Sarah Nicole Calinagan: time is gold, lost time never comes back again(okay lang yan)
+
 import 'package:flutter/material.dart';
 
 void main() {
