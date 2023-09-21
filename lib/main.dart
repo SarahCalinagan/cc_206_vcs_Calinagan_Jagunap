@@ -1,5 +1,5 @@
+//Roan H. Jagunap :It is what it is.
 //Sarah Nicole Calinagan: time is gold, lost time never comes back again(okay lang yan)
-//Sarah: pagod na ko sir
 
 import 'package:flutter/material.dart';
 
